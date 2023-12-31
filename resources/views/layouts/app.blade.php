@@ -13,6 +13,9 @@
 
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
+    <link href="/node_modules/@fortawesome/fontawesome-free/css/fontawesome.css" rel="stylesheet">
+    <link href="/node_modules/@fortawesome/fontawesome-free/css/brands.css" rel="stylesheet">
+    <link href="/node_modules/@fortawesome/fontawesome-free/css/solid.css" rel="stylesheet">
     @vite('resources/css/app.css')
 </head>
 
